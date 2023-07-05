@@ -1,0 +1,23 @@
+.heading{
+    color: aqua;
+    text-align: center;
+}
+.image{
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+   
+}
+.image img{
+    width: 50%;
+    height: 30vh;
+    border-radius: 30px;
+    margin-left:5%;
+    margin-top: 10%;
+}
+.school{
+    color: rgb(155, 121, 187);
+    font-weight: bolder;
+}
+.paragraph{
+    margin-left: 10%;
+}
